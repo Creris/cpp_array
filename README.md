@@ -13,12 +13,12 @@ This library compiles under following compilers:
 
 GCC 5.1 or newer
 
-- Until version 5.5, you need to provide `std=c++14` flag
+- Until version 5.5, you need to provide `-std=c++14` flag
 - Versions 6.1 and newer do not require any language specific flags
 
 Clang 3.5 or newer
 
-- Until version 6.0.0, you need to provide `std=c++14` flag
+- Until version 6.0.0, you need to provide `-std=c++14` flag
 - Newer versions do not need to provide any language specific flags
 
 Visual Studio 2017
